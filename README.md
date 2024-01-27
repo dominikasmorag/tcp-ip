@@ -21,9 +21,9 @@ It is a basic solo-chat application. This project was developed to gain hands-on
 ![image](https://github.com/dominikasmorag/tcp-ip/assets/91084751/b822dd0e-6133-4d0d-9798-9b7c490b6762)
 
 6. Sending message from User2 - this client is already albe to read messages from User1:
-7. 
+   
 ![image](https://github.com/dominikasmorag/tcp-ip/assets/91084751/2fe26741-bea2-4b43-ab53-6169e46bee36)
 
-8. Seeing all messages as User3:
-9. 
+7. Seeing all messages as User3:
+
 ![image](https://github.com/dominikasmorag/tcp-ip/assets/91084751/9ac2f146-7cb4-40e5-a39d-b071992ee11d)
